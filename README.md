@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![RokkuCode's github stats](https://github-readme-stats.vercel.app/api?username=RokkuCode&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![RokkuCode's github stats](https://github-readme-stats-rokkucode.vercel.app/api?username=RokkuCode&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RokkuCode&layout=compact&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-rokkucode.vercel.app/api/top-langs/?username=RokkuCode&layout=compact&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
