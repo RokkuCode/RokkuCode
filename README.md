@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 [![RokkuCode's github stats](https://github-readme-stats-zeta-livid.vercel.app/api?username=RokkuCode&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats-zeta-livid.vercel.app/api/top-langs/?username=RokkuCode&layout=compact&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-zeta-livid.vercel.app/api/top-langs/?username=RokkuCode&layout=compact&show_icons=true&theme=radical&langs=8)](https://github.com/anuraghazra/github-readme-stats)
